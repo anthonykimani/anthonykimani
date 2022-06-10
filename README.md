@@ -1,11 +1,9 @@
 <h1 align="center">Jambo 👋, I'm Anthony Kimani</h1>
-<h3 align="center">A Passionate Software Developer</h3>
+<h3 align="center">A Software Developer learning Web Development</h3>
 
 <img src="https://i.pinimg.com/originals/16/89/5b/16895b231b6da505e2e4acef02a3c1fe.gif" alt="" width="500">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anthonykimani&label=Profile%20views&color=0e75b6&style=flat" alt="anthonykimani" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anthonykimani" alt="anthonykimani" /></a> </p>
 
 - 🔭 I’m currently working on [portfolio website](https://anthonykimani.github.io/portfolio-website/)
 
