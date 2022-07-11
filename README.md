@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anthonykimani&label=Profile%20views&color=0e75b6&style=flat" alt="anthonykimani" /> </p>
 
-- 🔭 I’m currently working on [portfolio website](https://anthonykimani.github.io/portfolio-website/)
+- 🔭 I’m currently working on a [portfolio](https://anthonykimani.github.io/portfolio/)
 
 - 🌱 I’m currently learning **JavaScript , React and Ruby**
 
-- 👯 I’m looking to collaborate on [Maji-Nyumbani](https://github.com/anthonykimani/Maji-Nyumbani)
+- 👯 I’m looking to collaborate on [ecommerce-website](https://anthonykimani.github.io/ecommerce-website/)
 
-- 👨‍💻 All of my projects are available at [https://anthonykimani.github.io/portfolio-website/](https://anthonykimani.github.io/portfolio-website/)
+- 👨‍💻 All of my projects are available at [https://anthonykimani.github.io/portfolio/](https://anthonykimani.github.io/portfolio/)
 
 - 📝 I regularly write articles on [https://dev.to/kimani_dev](https://dev.to/kimani_dev)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **kimaniantoni@gmail.com**
 
-- ⚡ Fun fact **Competitive Cook**
+- ⚡ Fun fact **Competitive Cook** **Avid Haggler**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
