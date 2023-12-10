@@ -1,31 +1,12 @@
-<h1 align="center">Jambo 👋, I'm Anthony Kimani</h1>
-<h3 align="center">A Software Developer learning Web Development</h3>
-
-<img src="https://i.pinimg.com/originals/16/89/5b/16895b231b6da505e2e4acef02a3c1fe.gif" alt="" width="500">
+<h3 align="center">I build on the Web</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anthonykimani&label=Profile%20views&color=0e75b6&style=flat" alt="anthonykimani" /> </p>
 
-- 🌱 I’m currently learning **JavaScript , React and Ruby on Rails**
+- 🎨 If you love Design, check out [My Behance Portfolio](https://www.behance.net/anthonykimani2)*
 
 - 👨‍💻 All of my projects are available at [https://anthonykimani.github.io/portfolio/](https://anthonykimani.github.io/portfolio/)
 
-- 📝 I regularly write articles on [https://dev.to/kimani_dev](https://dev.to/kimani_dev)
-
-- 💬 Ask me about **Reactjs, JavaScript, HTML and CSS**
-
-- 📫 How to reach me **kimaniantoni@gmail.com**
-
-- ⚡ Fun fact **I do create 3d rendering**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/kimani_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kimani_dev" height="30" width="40" /></a>
-<a href="https://twitter.com/kimani_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kimani_dev" height="30" width="40" /></a>
-</p>
+- 📝 I write sometimes  on [kimani_dev](https://dev.to/kimani_dev)
 
 <br/>  
 
@@ -62,7 +43,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />    
 </div>
 
-<!--</td><td valign="top" width="50%">
+</td><td valign="top" width="50%">
 
 
 
@@ -80,7 +61,7 @@
 
 </div>
 
-</td>--></tr></table>  
+</td></tr></table>  
 
 <br/>  
 
@@ -96,7 +77,7 @@
 <a href="https://dev.to/kimani_dev" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="#" target="_blank">
+<a href="https://www.linkedin.com/in/anthony-kimani-50886b1ba/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>  
