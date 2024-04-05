@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kimaniantoni@gmail.com**
 
-- 📄 Learn about my experiences & education [https://www.linkedin.com/in/tomasgrusz/](https://www.linkedin.com/in/anthony-kimani-50886b1ba/)
+- 📄 Learn about my experiences & education [https://www.linkedin.com/in/anthony-kimani](https://www.linkedin.com/in/anthony-kimani-50886b1ba/)
 
 <br/>  
 
